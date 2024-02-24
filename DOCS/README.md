@@ -58,7 +58,7 @@
 
 
 ## History
-1. Circle and square added:
+1. Circle and square were added:
     8ba9aeb3cea847b63a91ac378a2a6db758682460
 2. Docs added:
     d078c8d9ee6155f3cb0e577d28d337b791de28e2
